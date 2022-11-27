@@ -1,0 +1,12 @@
+{
+  "title": "U18 | Car-Simulator",
+  "abstract": "Ein Programm zur grafischen Simulation von Straßenverkehr.",
+  "hasStarterCode": true,
+  "hasSolutionCode": true,
+  "solutionComment": "Lösungsvorschlag zur Aufgabenstellung",
+  "simpleSolutionComment": "",
+  "advancedSolutionComment": "Lösung mit GraphicsApp Compound statt eigener Klasse",
+  "hasSimpleSolutionCode": false,
+  "hasAdvancedSolutionCode": true,
+  "solutionAvailableOn": "2022-12-04"
+}
